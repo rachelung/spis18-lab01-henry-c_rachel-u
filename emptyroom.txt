@@ -1,0 +1,16 @@
+#Picobot emptyroom
+
+0 *x** -> E 0
+0 xEx* -> N 1
+1 **x* -> W 1
+1 xxW* -> N 0
+
+0 NExx -> S 2
+1 NxWx -> S 2
+
+2 x**x -> S 2
+
+2 xExS -> W 1
+2 xxWS -> E 0
+
+
